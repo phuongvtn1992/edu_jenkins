@@ -1,5 +1,5 @@
 pipeline {
-
+    //test trigger
     //agent none
     agent {label 'master'}
     
